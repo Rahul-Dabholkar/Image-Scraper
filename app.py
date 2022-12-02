@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import webbrowser
 
 st.set_page_config(page_title = 'Image Scraper', 
-                   page_icon='✏️',
+                   page_icon='📦',
                    layout='wide')
 
 st.markdown("<h1 style= 'text align:center'>Image Scraper</h1>",unsafe_allow_html=True)
